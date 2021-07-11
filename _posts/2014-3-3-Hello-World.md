@@ -19,19 +19,30 @@ So here is my first post attempt.
 Some words n that.... 
 
 
-[A link to something else](www.bbc.co.uk "beeb")
-
 Here is a picture :
 
 ![Father Dougal Maguire]({{site.baseurl}}/_posts/dougal.jpg)
 
 
-Does this work? Is this a useful way of doin gthing...
+
+
+Does this work? Is this a useful way of doing things...?
 
 > Could be
 
--item1
--item2
--item3
+- item1
+- item2
+- item3
+
+![dougal.jpg]({{site.baseurl}}/_posts/dougal.jpg)
+
+
+
+
+
+
+
+
+
 
 
