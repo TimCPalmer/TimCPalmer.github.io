@@ -5,10 +5,10 @@ published: true
 ---
 
 
-I've had all kinds of messy contrived (but neccesary) ways in place for connecting from A to B. SSH tunnels, proxies, VPNs and so on. Odd that I'd never until recently, needed to use Windows Auth across a network to get to SQL Server on  a a different Domain.  I'd usually be accessing via a bastion in the target domain or been using SQL Server level authentication.
+I've configured all kinds of convoluted ways for connecting from A to B with SQL Server. SSH tunnels, proxies, VPNs and so on. Odd that I'd never until recently, needed to use Windows Auth across a network to get to SQL Server on  a a different Domain.  I'd usually be accessing via a bastion in the target domain or been using SQL Server level authentication.
 
 
-SQL Server Management Studio, when using Windows authentication will want to use your native OS credentials. But there is a way to get it to use alternate domain credentials. It's a simple as starting SSMS from a cmd prompt like this:
+SQL Server Management Studio, when using Windows authentication will want to use your native OS domain credentials. But there is a way to get it to use alternate domain credentials. It's a simple as starting SSMS from a cmd prompt like this:
 
 
 `runas /user:TCP\timp /netonly ssms.exe`
