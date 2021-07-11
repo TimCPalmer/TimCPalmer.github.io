@@ -28,9 +28,6 @@ Does this work? Is this a useful way of doin gthing...
 - item2
 - item3
 
-![dougal.jpg]({{site.baseurl}}/_posts/dougal.jpg)
-
-
 
 
 
