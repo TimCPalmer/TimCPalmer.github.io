@@ -30,7 +30,7 @@ Does this work? Is this a useful way of doin gthing...
 
 
 
-
+![_config.yml]({{ site.baseurl }}/images/dougal.jpg)
 
 
 
