@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Connecting to SQL Server with Windows authentication from outside it's domain
-published: true
+published: false
 ---
 
 
