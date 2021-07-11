@@ -21,10 +21,22 @@ Some words n that....
 
 Does this work? Is this a useful way of doin gthing...
 
+
 > Could be
 
--item1
--item2
--item3
+- item1
+- item2
+- item3
+
+![dougal.jpg]({{site.baseurl}}/_posts/dougal.jpg)
+
+
+
+
+
+
+
+
+
 
 
