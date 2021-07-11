@@ -10,7 +10,8 @@ I've had all kinds of messy contrived (but neccesary) ways in place for connecti
 
 Obviosuly by default SQL Server Management Studio, when using Windows authentication will want to naturally use your native OS credentials. But there is a way to get it to use alternate domain credentials. Fire up a cmd prompt and do the following
 
-runas /user:TCP\timp /netonly ssms.exe
+
+`runas /user:TCP\timp /netonly ssms.exe`
 
 
 Where TCP\timp is my domain account and I'm assuming ssms.exe is in your local directory here (otherwise provide the full path).
