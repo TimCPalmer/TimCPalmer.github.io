@@ -6,8 +6,6 @@ published: true
 
 A table of something.
 
-| Column 1       | Column 2     | Column 3     |
-| :------------- | :----------: | -----------: |
-|  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |
+> You're off to great places! Today is your day! Your mountain is waiting, So get on your way!
+
 
